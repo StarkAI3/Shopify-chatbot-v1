@@ -1,5 +1,103 @@
 [
   {
+    "id": 8934070026494,
+    "title": "BDC Pour Homme - Perfume",
+    "body_html": "<p data-start=\"195\" data-end=\"551\"><strong data-start=\"195\" data-end=\"244\">Unleash the power of timeless sophistication.</strong><br data-start=\"244\" data-end=\"247\"><strong data-start=\"247\" data-end=\"265\">BDC Pour Homme</strong> is a bold, refined, and magnetic Eau de Parfum inspired by the iconic <strong data-start=\"336\" data-end=\"354\">Bleu de Chanel</strong> \u2014 crafted for the man who writes his own rules. This fragrance blends the freshness of citrus with the depth of woods and the mystery of incense, delivering a scent that is both clean and sensual.</p>\n<p data-start=\"553\" data-end=\"777\">It opens with crisp notes of <strong data-start=\"582\" data-end=\"596\">grapefruit</strong> and <strong data-start=\"601\" data-end=\"615\">lemon zest</strong>, unfolds into a spicy heart of <strong data-start=\"647\" data-end=\"657\">ginger</strong>, <strong data-start=\"659\" data-end=\"669\">nutmeg</strong>, and <strong data-start=\"675\" data-end=\"686\">jasmine</strong>, and settles into a rich base of <strong data-start=\"720\" data-end=\"734\">sandalwood</strong>, <strong data-start=\"736\" data-end=\"745\">cedar</strong>, <strong data-start=\"747\" data-end=\"756\">amber</strong>, and <strong data-start=\"762\" data-end=\"776\">tonka bean</strong>.</p>\n<p data-start=\"779\" data-end=\"909\">Whether you're heading to a boardroom or a dinner date, BDC makes a lasting impression \u2014 smooth, modern, and undeniably masculine.</p>\n<p data-start=\"911\" data-end=\"934\"><strong data-start=\"911\" data-end=\"934\">Why You\u2019ll Love It:</strong></p>\n<ul data-start=\"935\" data-end=\"1158\">\n<li data-start=\"935\" data-end=\"979\">\n<p data-start=\"937\" data-end=\"979\">Inspired by the luxury of Bleu de Chanel</p>\n</li>\n<li data-start=\"980\" data-end=\"1015\">\n<p data-start=\"982\" data-end=\"1015\">Long-lasting, all-day freshness</p>\n</li>\n<li data-start=\"1016\" data-end=\"1077\">\n<p data-start=\"1018\" data-end=\"1077\">Ideal for office wear, casual outings, and evening events</p>\n</li>\n<li data-start=\"1078\" data-end=\"1120\">\n<p data-start=\"1080\" data-end=\"1120\">Elegant glass bottle with magnetic cap</p>\n</li>\n<li data-start=\"1121\" data-end=\"1158\">\n<p data-start=\"1123\" data-end=\"1158\">100% alcohol-based perfume \u2013 no gas</p>\n</li>\n</ul>\n<p data-start=\"1160\" data-end=\"1180\"><strong data-start=\"1160\" data-end=\"1180\">Fragrance Notes:</strong></p>\n<ul data-start=\"1181\" data-end=\"1309\">\n<li data-start=\"1181\" data-end=\"1217\">\n<p data-start=\"1183\" data-end=\"1217\"><strong data-start=\"1183\" data-end=\"1191\">Top:</strong> Grapefruit, Lemon, Mint</p>\n</li>\n<li data-start=\"1218\" data-end=\"1256\">\n<p data-start=\"1220\" data-end=\"1256\"><strong data-start=\"1220\" data-end=\"1230\">Heart:</strong> Ginger, Jasmine, Nutmeg</p>\n</li>\n<li data-start=\"1257\" data-end=\"1309\">\n<p data-start=\"1259\" data-end=\"1309\"><strong data-start=\"1259\" data-end=\"1268\">Base:</strong> Sandalwood, Cedarwood, Amber, Tonka Bean</p>\n</li>\n</ul>",
+    "vendor": "Starky Shop",
+    "product_type": "",
+    "created_at": "2025-07-11T10:13:06+05:30",
+    "handle": "bdc-pour-homme-perfume",
+    "updated_at": "2025-07-11T10:23:12+05:30",
+    "published_at": "2025-07-11T10:13:07+05:30",
+    "template_suffix": "",
+    "published_scope": "global",
+    "tags": "",
+    "status": "active",
+    "admin_graphql_api_id": "gid://shopify/Product/8934070026494",
+    "variants": [
+      {
+        "id": 47068757524734,
+        "product_id": 8934070026494,
+        "title": "Default Title",
+        "price": "10050.00",
+        "position": 1,
+        "inventory_policy": "deny",
+        "compare_at_price": "975.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-07-11T10:13:07+05:30",
+        "updated_at": "2025-07-11T10:13:07+05:30",
+        "taxable": true,
+        "barcode": "",
+        "fulfillment_service": "manual",
+        "grams": 30,
+        "inventory_management": "shopify",
+        "requires_shipping": true,
+        "sku": null,
+        "weight": 30.0,
+        "weight_unit": "g",
+        "inventory_item_id": 49198695842046,
+        "inventory_quantity": 18,
+        "old_inventory_quantity": 18,
+        "admin_graphql_api_id": "gid://shopify/ProductVariant/47068757524734",
+        "image_id": null
+      }
+    ],
+    "options": [
+      {
+        "id": 11326763630846,
+        "product_id": 8934070026494,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 45240859492606,
+        "alt": null,
+        "position": 1,
+        "product_id": 8934070026494,
+        "created_at": "2025-07-11T10:09:49+05:30",
+        "updated_at": "2025-07-11T10:09:51+05:30",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/45240859492606",
+        "width": 375,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0754/8616/7294/files/BDC1.jpg?v=1752208791",
+        "variant_ids": []
+      },
+      {
+        "id": 45240859459838,
+        "alt": null,
+        "position": 2,
+        "product_id": 8934070026494,
+        "created_at": "2025-07-11T10:09:49+05:30",
+        "updated_at": "2025-07-11T10:09:50+05:30",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/45240859459838",
+        "width": 675,
+        "height": 900,
+        "src": "https://cdn.shopify.com/s/files/1/0754/8616/7294/files/BDC2.webp?v=1752208790",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 45240859492606,
+      "alt": null,
+      "position": 1,
+      "product_id": 8934070026494,
+      "created_at": "2025-07-11T10:09:49+05:30",
+      "updated_at": "2025-07-11T10:09:51+05:30",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/45240859492606",
+      "width": 375,
+      "height": 500,
+      "src": "https://cdn.shopify.com/s/files/1/0754/8616/7294/files/BDC1.jpg?v=1752208791",
+      "variant_ids": []
+    }
+  },
+  {
     "id": 8931807133950,
     "title": "Belts",
     "body_html": "<p data-start=\"46\" data-end=\"70\"><strong data-start=\"46\" data-end=\"70\">Premium Leather Belt</strong></p>\n<p data-start=\"72\" data-end=\"313\">Add a touch of elegance and functionality to your wardrobe with our <strong data-start=\"140\" data-end=\"164\">Premium Leather Belt</strong>. Crafted with attention to detail, this belt is made from high-quality leather that promises durability and a sophisticated look for every occasion.</p>\n<ul data-start=\"315\" data-end=\"886\">\n<li data-start=\"315\" data-end=\"432\">\n<p data-start=\"317\" data-end=\"432\"><strong data-start=\"317\" data-end=\"341\">High-Quality Leather</strong>: Made from genuine leather that softens with use, developing a beautiful patina over time.</p>\n</li>\n<li data-start=\"433\" data-end=\"569\">\n<p data-start=\"435\" data-end=\"569\"><strong data-start=\"435\" data-end=\"455\">Versatile Design</strong>: Features a classic buckle and a sleek finish, making it the perfect accessory for both casual and formal attire.</p>\n</li>\n<li data-start=\"570\" data-end=\"658\">\n<p data-start=\"572\" data-end=\"658\"><strong data-start=\"572\" data-end=\"587\">Perfect Fit</strong>: Adjustable to ensure a comfortable and secure fit for any waist size.</p>\n</li>\n<li data-start=\"659\" data-end=\"767\">\n<p data-start=\"661\" data-end=\"767\"><strong data-start=\"661\" data-end=\"687\">Durable &amp; Long-lasting</strong>: Designed to withstand everyday wear, this belt offers both style and strength.</p>\n</li>\n<li data-start=\"768\" data-end=\"886\">\n<p data-start=\"770\" data-end=\"886\"><strong data-start=\"770\" data-end=\"788\">Timeless Style</strong>: Whether for the office, a night out, or a casual weekend look, this belt complements any outfit.</p>\n</li>\n</ul>\n<p data-start=\"888\" data-end=\"979\"><strong data-start=\"888\" data-end=\"901\">Style Tip</strong>: Pair it with your favorite trousers or jeans to complete your polished look.</p>",
