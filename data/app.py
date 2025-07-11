@@ -123,6 +123,23 @@ def generate_chatbot_response(query, product_data, memory=None, user_id=None, se
     # Log user query for observability
     logger.info(f"Processing query - User: {user_id}, Session: {session_id}, Query: {query[:100]}...")
     
+    # Intercept direct product list queries before any LLM/Helicone logic
+    product_list_phrases = [
+        "product list", "list products", "show me products", "give me product list",
+        "show products", "all products", "products list"
+    ]
+    if any(phrase in query_lower for phrase in product_list_phrases):
+        product_info = []
+        for i, product in enumerate(product_data[:10]):  # Show up to 10 products
+            title = product.get('title', 'N/A')
+            price = product.get('variants', [{}])[0].get('price', 'N/A')
+            link = generate_product_link(product)
+            if link:
+                product_info.append(f'<a href="{link}">{title}</a> - ${price}')
+            else:
+                product_info.append(f'{title} - ${price}')
+        return "Here are some of our products:<br>" + "<br>".join(product_info)
+    
     # Always use Helicone for complex queries or when no user_id is provided (Shopify requests)
     should_use_helicone = (
         user_id is None or 

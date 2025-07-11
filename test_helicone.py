@@ -29,8 +29,8 @@ def test_helicone_integration():
         request_id = str(uuid.uuid4())
         start_time = time.time()
         url = f"https://gateway.helicone.ai/v1beta/models/gemini-2.0-flash:generateContent?key={GOOGLE_API_KEY}"
-        headers = {
-            "Content-Type": "application/json",
+headers = {
+    "Content-Type": "application/json",
             "Helicone-Auth": f"Bearer {HELICONE_API_KEY}",
             "Helicone-Target-URL": "https://generativelanguage.googleapis.com",
             "helicone-cache-enabled": "true",
@@ -40,9 +40,9 @@ def test_helicone_integration():
             "helicone-property-model": "gemini-2.0-flash",
             "helicone-property-prompt-length": str(len(prompt)),
             "helicone-property-application": "starky-shop-chatbot-test"
-        }
-        data = {
-            "contents": [
+}
+data = {
+    "contents": [
                 {"role": "user", "parts": [{"text": prompt}]}
             ],
             "generationConfig": {
